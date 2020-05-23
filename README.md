@@ -4,6 +4,10 @@ Ubuntu Touch Webapp for the [Linguee](https://www.linguee.com) website.
 
 Linguee is an online bilingual translation service.
 
+## Download
+
+[![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/lingueeunofficial.olof-nord)
+
 ## Build
 
 To build, clickable is required.  
